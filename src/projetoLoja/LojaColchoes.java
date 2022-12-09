@@ -22,7 +22,7 @@ public class LojaColchoes {
         String escolha = entrada.nextLine();
 
         if (escolha.equals("Macio")){
-            System.out.println("Sugir para o Senhor o colchão: " + modelo2.nomeModelo);
+            System.out.println("Sugiro para o Senhor o colchão: " + modelo2.nomeModelo);
         } else if (escolha.equals("Firme")){
             System.out.println("Sugiro para o Senhor o colchão: " + modelo1.nomeModelo);
         } else if (escolha.equals("Meio Termo")){
