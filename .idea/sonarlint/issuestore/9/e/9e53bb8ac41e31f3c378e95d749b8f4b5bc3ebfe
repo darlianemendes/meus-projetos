@@ -1,0 +1,23 @@
+
+Y
+java:S1854 "<Remove this useless assignment to local variable "entrada2".(ßô¯¤8¡ø–Öë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó²ãÀ8§ø–Öë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÀÀ¬üÿÿÿÿ8¨ø–Öë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÁöÂ²üÿÿÿÿ8©ø–Öë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹¥ °8ªø–Öë/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ûõ…8«ø–Öë/
+J
+java:S1481 "-Remove this unused "entrada2" local variable.(ßô¯¤8«ø–Öë/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(•½°Éıÿÿÿÿ8¬ø–Öë/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ØÀÀ¬üÿÿÿÿ8­ø–Öë/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÁöÂ²üÿÿÿÿ8­ø–Öë/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(‹¥ °8®ø–Öë/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Meio Termo" 3 times.(òû²©8¯ø–Öë/
+„
+java:S1192"bDefine a constant instead of duplicating this literal "Sugiro para o Senhor o colchÃ£o: " 6 times.(ØÀÀ¬üÿÿÿÿ8¯ø–Öë/
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Firme" 3 times.(©Ÿ÷ó8¯ø–Öë/
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Macio" 3 times.(Å¹•µúÿÿÿÿ8°ø–Öë/
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ ¦Z8À”Öë/
